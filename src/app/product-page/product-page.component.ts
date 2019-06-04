@@ -1,4 +1,6 @@
+import { Album } from '../album';
 import { Component, OnInit } from '@angular/core';
+
 
 @Component({
   selector: 'app-product-page',
